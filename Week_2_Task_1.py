@@ -5,8 +5,8 @@ Temperature = 71
 print("Temperature:", Temperature)
 
 if Temperature >= 70:
-    Print("It's hot")
+    print("It's hot")
 elif Temperature >= 55:
-    Print("It's warm")
+    print("It's warm")
 elif Temperature >= 32:
-    Print("It's Cold!")
+    print("It's Cold!")
